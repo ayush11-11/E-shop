@@ -2,7 +2,6 @@
 # E commerce Webapp Using React.js ,Node.js and Mongodb with admin dashboard
 
 E commerce web application with payment and delivery option .Also have JWt security so to authenticate and authorize.
-```
 ## Welcome Page
 
 ![alt text](https://github.com/ayush11-11/E-shop/blob/main/client/assets/Eshop%20Welcome.PNG "Logo Title Text 1")
