@@ -5,7 +5,7 @@ E commerce web application with payment and delivery option .Also have JWt secur
 ```
 ## Welcome Page
 
-![Welcome page](https://github.com/ayush11-11/E-shop/blob/main/client/assets/Eshop%20Welcome.PNG "Logo Title Text 1")
+![alt text](https://github.com/ayush11-11/E-shop/blob/main/client/assets/Eshop%20Welcome.PNG "Logo Title Text 1")
 ### `npm run dev` 
  
 
